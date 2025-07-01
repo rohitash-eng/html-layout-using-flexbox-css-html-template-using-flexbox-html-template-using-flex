@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Align Content Demo</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      height: 100vh; /* Large height to demonstrate align-content */
+      gap: 20px;
+      padding: 20px;
+      background-color: #f9f9f9;
+      box-sizing: border-box;
+    }
+
+    .card {
+      background: #fff;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      padding: 16px;
+      width: calc(25% - 20px);
+      box-sizing: border-box;
+    }
+
+    .card p {
+      font-size: 0.95em;
+      line-height: 1.5em;
+    }
+
+    @media (max-width: 900px) {
+      .card {
+        width: calc(50% - 20px);
+      }
+    }
+
+    @media (max-width: 600px) {
+      .card {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="card">
+      <h3>Card 1</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae dapibus justo. Integer et velit sem.</p>
+    </div>
+    <div class="card">
+      <h3>Card 2</h3>
+      <p>Ut bibendum lorem ut velit fermentum, in scelerisque ex commodo. Integer tincidunt fermentum nulla.</p>
+    </div>
+    <div class="card">
+      <h3>Card 3</h3>
+      <p>Donec fringilla nibh at orci tristique, nec pretium massa pharetra. Curabitur et erat a justo tincidunt mollis.</p>
+    </div>
+    <div class="card">
+      <h3>Card 4</h3>
+      <p>Praesent id augue at nisi fermentum dictum a nec nulla. Etiam pulvinar ex nec lorem tincidunt sollicitudin.</p>
+    </div>
+  </div>
+
+</body>
+</html>

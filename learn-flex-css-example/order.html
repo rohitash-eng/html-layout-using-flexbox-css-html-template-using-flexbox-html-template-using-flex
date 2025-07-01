@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flexbox Order Example</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    ul.flex-list {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      gap: 20px;
+      background-color: #f0f0f0;
+      padding: 20px;
+      flex-wrap: wrap;
+    }
+
+    ul.flex-list li {
+      background-color: #007bff;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 6px;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    /* Order applied here */
+    
+  </style>
+</head>
+<body>
+
+  <h2>Flexbox List with Custom Order</h2>
+  <ul class="flex-list">   
+    <li class="item1">CM</li>
+    <li class="item3">MLA</li>
+    <li class="item2">PM</li>
+    <li class="item4">MP</li>
+  </ul>
+
+</body>
+</html>
