@@ -1,13 +1,17 @@
-# 🌐 If you want to contribute, please create your own branch from main then raise the PR for main, I will review and merge into main.
+## 📚 What’s Inside?
 
-## 🙌 Contribute or Fork
+- 🧱 How to create the html structure of any design
+- 🎨 I have created the some examples using Flexbox or flex css, where you can learn different flex box properties and also different different layouts
+- First watch or learn normal css with float then start with flex css or Flexbox
+- you can clone and check the html structure and css code of the templates
 
-Feel free to **fork**, **modify**, or **contribute** improvements to these templates. Happy coding!
+## 🎥 Learn via Video - Flexbox
+ 
+👉 Watch my YouTube tutorial playlist here:  
+**[📺 Flexbox or Flex css Layout Tutorials](https://www.youtube.com/watch?v=qtg2bUGgH6c&list=PLN1cxIWe98bfEgpC81lDEwuJDoxUoquKe)**
 
-
-<<<<<<< Updated upstream
-(https://www.youtube.com/playlist?list=PLN1cxIWe98bfEgpC81lDEwuJDoxUoquKe)
-=======
+--- watch video tutorial on youtube
+(https://www.youtube.com/watch?v=qtg2bUGgH6c&list=PLN1cxIWe98bfEgpC81lDEwuJDoxUoquKe)
 ---
 
 ## 📁 List of Templates with Screenshots
@@ -31,12 +35,6 @@ Feel free to **fork**, **modify**, or **contribute** improvements to these templ
 
 👉 Watch my YouTube tutorial playlist here:  
 **[📺 HTML + CSS Float Layout Tutorials](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)**
-
-**[📺 HTML + CSS Float Layout Tutorials](https://youtu.be/g62Sc3fY69c?si=kFypwwCrU6IcmWVi)**
-
-
-**[📺 HTML + CSS Float Layout Tutorials](https://youtu.be/PngpXqsr0WI?si=vepTV0X_ee_2LROg)**
-
 
 
 ---
@@ -91,5 +89,3 @@ Frontend Developer | CSS Flexbox Enthusiast
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
->>>>>>> Stashed changes
