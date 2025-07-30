@@ -29,15 +29,10 @@
 
 ---
 
-### 3. **Chess Layout Using Float CSS** 
-![Chess Layout Using Float CSS](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-float-css-normal-custom-css/refs/heads/main/blue-image-text-on-image-form-on-image-examples/images/Screenshot%202025-06-30%20at%2010.50.32%E2%80%AFPM.png)
-
----
-
-### 4. **Menu and sub-menu example using flex css**
+### 3. **Menu and sub-menu example using flex css**
 ![Menu and sub-menu example using flex css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/images/Screenshot%202025-07-01%20at%202.35.58%E2%80%AFPM.png)
 
-### 5. **some other basic examples**
+### 4. **some other basic examples**
 
 ## 🎥 Learn via Video
 
