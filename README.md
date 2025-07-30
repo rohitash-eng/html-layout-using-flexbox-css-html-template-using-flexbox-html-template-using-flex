@@ -75,7 +75,7 @@ This tutorial demonstrates the use of various **Flexbox CSS properties** to crea
 
 ## 🔗 Live Demo
 
-➡️ [View Portfolio Live](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/professional-portfolio-website-using-flex/images/professional-portfolio-website-using-flex.png)
+➡️ [View Portfolio Live](https://www.youtube.com/watch?v=qtg2bUGgH6c&list=PLN1cxIWe98bfEgpC81lDEwuJDoxUoquKe)
 
 ---
 
