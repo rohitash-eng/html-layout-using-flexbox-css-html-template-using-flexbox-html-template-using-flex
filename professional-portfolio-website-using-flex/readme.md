@@ -1,43 +1,14 @@
-# 🌐 If you want to contribute, please create your own branch from main then raise the PR for main, I will review and merge into main.
+# 💼 Professional Portfolio Website Using Flex CSS
 
-## 🙌 Contribute or Fork
-
-Feel free to **fork**, **modify**, or **contribute** improvements to these templates. Happy coding!
-
-
-<<<<<<< Updated upstream
-(https://www.youtube.com/playlist?list=PLN1cxIWe98bfEgpC81lDEwuJDoxUoquKe)
-=======
----
-
-## 📁 List of Templates with Screenshots
-
-### 1. **Professional website full template using flex**
-![Professional website full template using flex](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/images/Screenshot%202025-07-01%20at%202.35.50%E2%80%AFPM.png)
+This project demonstrates how to build a professional and responsive portfolio website using **CSS Flexbox**. It includes clean layouts, responsive columns, skill bars, and adaptive design for mobile.
 
 ---
 
-### 2. **Professional w3school.com smoke template using flex css** 
-![Professional w3school.com smoke template using flex css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/images/Screenshot%202025-07-01%20at%202.36.10%E2%80%AFPM.png)
+## 🌐 Live Preview
 
----
-
-### 3. **Menu and sub-menu example using flex css**
-![Menu and sub-menu example using flex css](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/images/Screenshot%202025-07-01%20at%202.35.58%E2%80%AFPM.png)
-
-### 4. **some other basic examples**
-
-## 🎥 Learn via Video
-
-👉 Watch my YouTube tutorial playlist here:  
-**[📺 HTML + CSS Float Layout Tutorials](https://www.youtube.com/playlist?list=PLN1cxIWe98bdFxfaSjK-ELMr0zDNIK8Mb)**
-
-**[📺 HTML + CSS Float Layout Tutorials](https://youtu.be/g62Sc3fY69c?si=kFypwwCrU6IcmWVi)**
-
-
-**[📺 HTML + CSS Float Layout Tutorials](https://youtu.be/PngpXqsr0WI?si=vepTV0X_ee_2LROg)**
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/professional-portfolio-website-using-flex/images/professional-portfolio-website-using-flex.png" alt="Portfolio Preview" width="700"/>
+</p>
 
 ---
 
@@ -91,5 +62,3 @@ Frontend Developer | CSS Flexbox Enthusiast
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
->>>>>>> Stashed changes
