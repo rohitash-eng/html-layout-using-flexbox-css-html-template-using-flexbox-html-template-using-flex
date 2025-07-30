@@ -7,7 +7,7 @@ This project demonstrates how to build a professional and responsive portfolio w
 ## 🌐 Live Preview
 
 <p align="center">
-  <img src="https://github.com/rohitash-eng/professional-portfolio-website-using-flex/blob/main/images/professional-portfolio-website-using-flex.png?raw=true" alt="Portfolio Preview" width="700"/>
+  <img src="https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/professional-portfolio-website-using-flex/images/professional-portfolio-website-using-flex.png" alt="Portfolio Preview" width="700"/>
 </p>
 
 ---
@@ -48,13 +48,13 @@ This tutorial demonstrates the use of various **Flexbox CSS properties** to crea
 
 ## 🔗 Live Demo
 
-➡️ [View Portfolio Live](https://github.com/rohitash-eng/professional-portfolio-website-using-flex/blob/main/images/professional-portfolio-website-using-flex.png?raw=true)
+➡️ [View Portfolio Live](https://raw.githubusercontent.com/rohitash-eng/html-layout-using-flexbox-css-html-template-using-flexbox-html-template-using-flex/refs/heads/main/professional-portfolio-website-using-flex/images/professional-portfolio-website-using-flex.png)
 
 ---
 
 ## 🧑‍💻 Author
 
-**Rohtash Singh**  
+**Rohitash Singh**  
 Frontend Developer | CSS Flexbox Enthusiast
 
 ---
